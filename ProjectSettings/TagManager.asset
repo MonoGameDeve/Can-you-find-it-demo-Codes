@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Rope
+  - Player
+  - Background
+  - Hazards
+  - Lava
+  - TreasureChest
+  - Relic
+  - Guide
+  - ScoreBoard
+  - PauseMenu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2136052685
+    locked: 0
+  - name: Rope
+    uniqueID: 3544235297
+    locked: 0
+  - name: Hazards
+    uniqueID: 3413193425
+    locked: 0
+  - name: Lava
+    uniqueID: 2668634823
+    locked: 0
+  - name: Guide
+    uniqueID: 2887963967
+    locked: 0
+  - name: Player
+    uniqueID: 3556649035
+    locked: 0
+  - name: Foreground
+    uniqueID: 2005740537
+    locked: 0
+  - name: TreasureChest
+    uniqueID: 2825824287
+    locked: 0
+  - name: Relic
+    uniqueID: 678420327
+    locked: 0
+  - name: ScoreBoard
+    uniqueID: 2068865151
+    locked: 0
+  - name: PauseMenu
+    uniqueID: 3084432631
+    locked: 0
